@@ -2,7 +2,7 @@ def task_1():
     return ''
 
 
-assert task_1() == '''
+assert task_1() == '''  #to jest tylko do testów, ten "assert"
 1
 22
 333
